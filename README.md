@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sharikhh
 - 👀 Interested in Data Science
 - 🌱 Currently learning Machine learning
-- 💞️  looking to collaborate on ...
 - 📫 How to reach me ...sharikhh1998@gmail.com
 
 <!---
